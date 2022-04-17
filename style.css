@@ -1,0 +1,22 @@
+.displaySet{
+        width: 60%;
+        margin-left: 20%;
+        border-radius: 30px;
+    }
+.searchBar{
+        width: 21%;
+        height:5%;
+        border-radius: 10px;
+    }
+body {
+        background: url('https://www.caf.com/media/2630948/covid19-iniciativas-innovacion-social.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        
+      }
+.footer{
+          text-align: center;
+          color: aliceblue;
+      }
